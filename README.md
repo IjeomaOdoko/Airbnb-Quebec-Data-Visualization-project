@@ -11,7 +11,7 @@ Data Visualization project in Power BI, including exploring and shaping data wit
 
 [Download Power BI pbix file](https://github.com/IjeomaOdoko/Airbnb-Quebec-Data-Visualization-project/blob/master/Inside%20AirBnB%20data%20-%20Quebec.pbix) to your local machine, and change connection to where you downloaded the excel file. 
 
-### 3. [View snapshots of the visuals](https://github.com/IjeomaOdoko/Airbnb-Quebec-Data-Visualization-project/blob/master/Inside%20AirBnB%20data%20-%20Quebec%20(1).pptx)
+### 3. [View a snapshot of the Power BI visuals](https://github.com/IjeomaOdoko/Airbnb-Quebec-Data-Visualization-project/blob/master/Inside%20AirBnB%20data%20-%20Quebec.pdf)
 
 
 Data Sources: http://insideairbnb.com/get-the-data.html
